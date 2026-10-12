@@ -50,3 +50,15 @@ The project demonstrates how data cleaning, exploratory analysis, and dashboard 
 
 ## 10. Author
 Created as part of the SWYNEX data analytics internship project.
+
+## Dashboard Preview
+
+![Netflix Content Analytics Dashboard](./SWYNEX-Interactive-Dashboard.png)
+
+## EDA Charts
+
+The five EDA charts are available in the `eda` folder.
+
+## Dataset
+
+The dataset CSV file is available in the `data` folder.
